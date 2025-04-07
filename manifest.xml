@@ -27,7 +27,7 @@
     <FormSettings>
         <Form xsi:type="ItemRead">
             <DesktopSettings>
-                <SourceLocation DefaultValue="https://shahzadumar-w.github.io/Boligflow_Outlook_integration/taskpane.html"/>
+                <SourceLocation DefaultValue="https://shahzadumar-w.github.io/Boligflow_Outlook_integration/ReactDialog.html"/>
                 <RequestedHeight>250</RequestedHeight>
             </DesktopSettings>
         </Form>
