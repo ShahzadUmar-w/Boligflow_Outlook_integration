@@ -6,7 +6,7 @@
            xsi:type="MailApp">
     <Id>473c6d22-c0ef-484f-9f71-af8c0ed3a1f5</Id>
     <Version>1.0.0.0</Version>
-    <ProviderName>Contoso</ProviderName>
+    <ProviderName>Boligflow</ProviderName>
     <DefaultLocale>en-US</DefaultLocale>
     <DisplayName DefaultValue="Boligflow"/>
     <Description DefaultValue="Get start with Boligflow Outlook add-in."/>
